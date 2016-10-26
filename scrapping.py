@@ -42,5 +42,7 @@ class Scrap:
 url1 = ["https://in.news.yahoo.com/jaitley-trying-please-narcissist-pm-modi-congress-074242917.html?nhp=1" ,"https://en.wikipedia.org/wiki/List_of_state_and_union_territory_capitals_in_India"]
 Scrap_obj = Scrap()
 word_array,column_header = Scrap_obj.word_normalization(url1)
+print "test"
+
 
 
